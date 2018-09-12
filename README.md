@@ -1,2 +1,3 @@
 # todo-list
-A simple todo list web app. Created for Colt Steele's Web Dev Bootcamp
+A simple todo list web app. Created for Colt Steele's Web Dev Bootcamp. Learning about jQuery element creation
+and common methods, CSS transitions, and folder structure.
